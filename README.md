@@ -9,10 +9,10 @@ iniciar o backend:
 - cd back
 - npm install
 - cd src
--node server.js
+- node server.js
 
 iniciar o frontend:
 
--cd front
--npm install
--npm start
+- cd front
+- npm install
+- npm start
